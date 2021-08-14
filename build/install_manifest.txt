@@ -1,0 +1,9 @@
+/home/kuhn/kunstudy/install/_setup_util.py
+/home/kuhn/kunstudy/install/env.sh
+/home/kuhn/kunstudy/install/setup.bash
+/home/kuhn/kunstudy/install/local_setup.bash
+/home/kuhn/kunstudy/install/setup.sh
+/home/kuhn/kunstudy/install/local_setup.sh
+/home/kuhn/kunstudy/install/setup.zsh
+/home/kuhn/kunstudy/install/local_setup.zsh
+/home/kuhn/kunstudy/install/.rosinstall
